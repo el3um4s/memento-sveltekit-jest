@@ -1,7 +1,6 @@
 <script lang="ts">
-	export let value: number = 0;
-
-	let randomValue: number = 0;
+	export let value = 0;
+	let randomValue = 0;
 
 	function getRandomInt(min: number, max: number) {
 		const positive = Math.random() > 0.5 ? 1 : -1;

@@ -23,6 +23,6 @@ _Note that you will need to have [Node.js](https://nodejs.org/) installed._
 
 For development purpose:
 
-* `npm run dev`: auto reload the web page when you change Svelte files
-* `npm run test`: test the Svelte components
-* `npm run test:watch`:  auto test when you change Svelte files
+- `npm run dev`: auto reload the web page when you change Svelte files
+- `npm run test`: test the Svelte components
+- `npm run test:watch`: auto test when you change Svelte files
